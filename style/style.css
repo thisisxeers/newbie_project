@@ -215,7 +215,7 @@ li.List:hover {
     min-width: 1200px;
     /*background-color: rgb(139, 41, 41);*/
     height: 80px;
-    margin: 0 auto;
+    margin: 15px auto;
 }
 
 .GuideContainer {
@@ -336,16 +336,15 @@ li.List:hover {
 /*moive部分*/
 
 .MovieBar {
-    min-width: 1200px;
+    min-width: 1300px;
     /*background-color: rgb(139, 41, 41);*/
     height: 400px;
-    margin: 50px auto 1000px auto;
+    margin: 50px 0 1000px 0;
     /*底部的1000px是为了更好的显示回到顶部效果*/
 }
 
 .MovieContainer {
     max-width: 1300px;
-    min-width: 864px;
     height: 420px;
     margin: 0 auto;
     /*background-color: rgb(0, 151, 151);*/
@@ -405,6 +404,7 @@ li.List:hover {
 }
 
 .MovieMain {
+    max-width: 1300px;
     position: absolute;
     height: 89.2%;
 }
@@ -413,7 +413,7 @@ li.List:hover {
     position: relative;
     float: left;
     padding: 7px;
-    width: 15.5%;
+    width: 15.55%;
     height: 100%;
 }
 
